@@ -8,7 +8,7 @@ func main() {
 
 	var a int
 
-	fmt.Print("Selamat datang di program untuk menentukan bilangan. \n \n")
+	fmt.Print("Selamat datang di program untuk menentukan bilangan prima. \n \n")
 	fmt.Println("Silahkan masukkan bilangan bulat:")
 	_, erra := fmt.Scan(&a)
 
